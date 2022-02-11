@@ -24,3 +24,7 @@ Tutor : [Eko Kurniawan Khannedy](https://www.youtube.com/c/ProgrammerZamanNow/ab
 
 ![Data Null](/DataNull.jpg)
 
+- Tipe Data Array (Membuat Array, Operasi Array, Array Sebagai Map, dan Array di dalam Array)
+
+![Tipe Data Array](/Array1.jpg)
+
