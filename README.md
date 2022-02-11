@@ -15,4 +15,8 @@ Tutor : [Eko Kurniawan Khannedy](https://www.youtube.com/c/ProgrammerZamanNow/ab
 11 Februari 2022
 
 - Variable
+
+![variabel](/Variable.jpg)
 - Constant
+
+![constant](/Constant.jpg)
