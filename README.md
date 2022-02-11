@@ -20,3 +20,7 @@ Tutor : [Eko Kurniawan Khannedy](https://www.youtube.com/c/ProgrammerZamanNow/ab
 - Constant
 
 ![constant](/Constant.jpg)
+- Data Null
+
+![Data Null](/DataNull.jpg)
+
