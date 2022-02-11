@@ -10,3 +10,9 @@ Tutor : [Eko Kurniawan Khannedy](https://www.youtube.com/c/ProgrammerZamanNow/ab
 - Tipe Data Number (Integer & Float)
 - Tipe Data Boolean
 - Tipe Data String (single quote, double quote, heredoc, dan nowdoc)
+
+# Day 2
+11 Februari 2022
+
+- Variable
+- Constant
