@@ -11,7 +11,7 @@ Tutor : [Eko Kurniawan Khannedy](https://www.youtube.com/c/ProgrammerZamanNow/ab
 - Tipe Data Boolean
 - Tipe Data String (single quote, double quote, heredoc, dan nowdoc)
 
-# Day 2
+## Day 2
 11 Februari 2022
 
 - Variable
@@ -28,3 +28,26 @@ Tutor : [Eko Kurniawan Khannedy](https://www.youtube.com/c/ProgrammerZamanNow/ab
 
 ![Tipe Data Array](/Array1.jpg)
 
+## day 3
+15 Februari 2022
+
+- Operator Aritmatika
+
+![aritmatika](/OParitmatika.jpg)
+- Operator penugasan
+
+![penugasan](/OPpenugasan.jpg)
+- Operator Perbandingan
+
+![perbandingan](/OPperbandingan.jpg)
+- Operator Logika
+
+![logika](/OPlogika.jpg)
+- Increment dan Decrement
+
+![incdec](/incdecrement.jpg)
+- Operator Array
+
+![OParray1](/OParray1.jpg)
+
+![OParray2](/OParray2.jpg)
