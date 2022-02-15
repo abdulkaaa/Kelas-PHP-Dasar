@@ -33,20 +33,36 @@ Tutor : [Eko Kurniawan Khannedy](https://www.youtube.com/c/ProgrammerZamanNow/ab
 
 - Operator Aritmatika
 
+![aritmatika1](/OParitmatika1.jpg)
+
+![aritmatika2](/OParitmatika2.jpg)
+
 ![aritmatika](/OParitmatika.jpg)
 - Operator penugasan
+
+![penugasan1](/OPpenugasan1.jpg)
 
 ![penugasan](/OPpenugasan.jpg)
 - Operator Perbandingan
 
+![perbandingan1](/OPperbandingan1.jpg)
+
+![perbandingan2](/OPperbandingan2.jpg)
+
 ![perbandingan](/OPperbandingan.jpg)
 - Operator Logika
+
+![logika1](/OPlogika1.jpg)
 
 ![logika](/OPlogika.jpg)
 - Increment dan Decrement
 
+![incdec1](/incdecrement1.jpg)
+
 ![incdec](/incdecrement.jpg)
 - Operator Array
+
+![OParray3](/OParray3.jpg)
 
 ![OParray1](/OParray1.jpg)
 
