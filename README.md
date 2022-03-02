@@ -28,7 +28,7 @@ Tutor : [Eko Kurniawan Khannedy](https://www.youtube.com/c/ProgrammerZamanNow/ab
 
 ![Tipe Data Array](/Array1.jpg)
 
-## day 3
+## Day 3
 15 Februari 2022
 
 - Operator Aritmatika
@@ -67,3 +67,22 @@ Tutor : [Eko Kurniawan Khannedy](https://www.youtube.com/c/ProgrammerZamanNow/ab
 ![OParray1](/OParray1.jpg)
 
 ![OParray2](/OParray2.jpg)
+
+## Day 4
+02 Maret 2022
+
+- Manipulasi String
+
+![Manipulasi String](/manipulasiString.jpg)
+- If Statement
+
+![If Statement](/ifStatement.jpg)
+- Switch Statement
+
+![Switch Statement](/switchStatement.jpg)
+- Ternary Operator
+
+![Ternary Operator](/ternaryOperator.jpg)
+- Null Coalescing Operator
+
+![Null Coalescing Operator](/nullcoalescingoperator.jpg)
