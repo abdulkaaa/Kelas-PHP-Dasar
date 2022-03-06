@@ -16,73 +16,99 @@ Tutor : [Eko Kurniawan Khannedy](https://www.youtube.com/c/ProgrammerZamanNow/ab
 
 - Variable
 
-![variabel](/Variable.jpg)
+![variabel](/Day2/Variable.jpg)
 - Constant
 
-![constant](/Constant.jpg)
+![constant](/Day2/Constant.jpg)
 - Data Null
 
-![Data Null](/DataNull.jpg)
+![Data Null](/Day2/DataNull.jpg)
 
 - Tipe Data Array (Membuat Array, Operasi Array, Array Sebagai Map, dan Array di dalam Array)
 
-![Tipe Data Array](/Array1.jpg)
+![Tipe Data Array](/Day2/Array1.jpg)
 
 ## Day 3
 15 Februari 2022
 
 - Operator Aritmatika
 
-![aritmatika1](/OParitmatika1.jpg)
+![aritmatika1](/Day3/OParitmatika1.jpg)
 
-![aritmatika2](/OParitmatika2.jpg)
+![aritmatika2](/Day3/OParitmatika2.jpg)
 
-![aritmatika](/OParitmatika.jpg)
+![aritmatika](/Day3/OParitmatika.jpg)
 - Operator penugasan
 
-![penugasan1](/OPpenugasan1.jpg)
+![penugasan1](/Day3/OPpenugasan1.jpg)
 
-![penugasan](/OPpenugasan.jpg)
+![penugasan](/Day3/OPpenugasan.jpg)
 - Operator Perbandingan
 
-![perbandingan1](/OPperbandingan1.jpg)
+![perbandingan1](/Day3/OPperbandingan1.jpg)
 
-![perbandingan2](/OPperbandingan2.jpg)
+![perbandingan2](/Day3/OPperbandingan2.jpg)
 
-![perbandingan](/OPperbandingan.jpg)
+![perbandingan](/Day3/OPperbandingan.jpg)
 - Operator Logika
 
-![logika1](/OPlogika1.jpg)
+![logika1](/Day3/OPlogika1.jpg)
 
-![logika](/OPlogika.jpg)
+![logika](/Day3/OPlogika.jpg)
 - Increment dan Decrement
 
-![incdec1](/incdecrement1.jpg)
+![incdec1](/Day3/incdecrement1.jpg)
 
-![incdec](/incdecrement.jpg)
+![incdec](/Day3/incdecrement.jpg)
 - Operator Array
 
-![OParray3](/OParray3.jpg)
+![OParray3](/Day3/OParray3.jpg)
 
-![OParray1](/OParray1.jpg)
+![OParray1](/Day3/OParray1.jpg)
 
-![OParray2](/OParray2.jpg)
+![OParray2](/Day3/OParray2.jpg)
 
 ## Day 4
 02 Maret 2022
 
 - Manipulasi String
 
-![Manipulasi String](/manipulasiString.jpg)
+![Manipulasi String](/Day4/manipulasiString.jpg)
 - If Statement
 
-![If Statement](/ifStatement.jpg)
+![If Statement](/Day4/ifStatement.jpg)
 - Switch Statement
 
-![Switch Statement](/switchStatement.jpg)
+![Switch Statement](/Day4/switchStatement.jpg)
 - Ternary Operator
 
-![Ternary Operator](/ternaryOperator.jpg)
+![Ternary Operator](/Day4/ternaryOperator.jpg)
 - Null Coalescing Operator
 
-![Null Coalescing Operator](/nullcoalescingoperator.jpg)
+![Null Coalescing Operator](/Day4/nullcoalescingoperator.jpg)
+
+## Day 5
+06 Maret 2022
+
+- For Loop
+
+![For Loop](/Day5/for1.jpg)
+
+![For Loop 2](/Day5/for2.jpg)
+- While Loop
+
+![While Loop](/Day5/while.jpg)
+- Do While Loop
+
+![Do While Loop](/Day5/dowhile.jpg)
+- Break
+
+![Break](/Day5/break.jpg)
+- Continue
+
+![Continue](/Day5/continue.jpg)
+- For Each
+
+![For each](/Day5/foreach.jpg)
+
+
