@@ -111,4 +111,19 @@ Tutor : [Eko Kurniawan Khannedy](https://www.youtube.com/c/ProgrammerZamanNow/ab
 
 ![For each](/Day5/foreach.jpg)
 
+## Day 6
+16 Maret 2022
+
+- Goto Operator
+
+![Goto](/Day6/goto.jpg)
+- Function
+
+![Function](/Day6/function.jpg)
+- Function Argument
+
+![Function Argument](/Day6/fa1.jpg)
+
+![Function Argument](/Day6/fa2.jpg)
+
 
